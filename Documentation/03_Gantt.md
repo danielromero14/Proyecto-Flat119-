@@ -4,7 +4,7 @@
 | :--------------------------------------- | :----------------- | :-------- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :-- | :-- | :-- |
 | **Fase 1: Fundación Digital**            | Orbital Técnico    |           |      |      |      |      |      |      |      |      |      |      |      |     |     |     |
 | 1.1 Configuración DNS y Migración        | Orbital Técnico    | Realizado | [V]  | [V]  |      |      |      |      |      |      |      |      |      |     |     |     |
-| 1.2 Análisis y Estrategia SEO            | Orbital Técnico    | Realizado | [V]  | [V]  |      |      |      |      |      |      |      |      |      |     |     |     |
+| 1.2 Análisis y Estrategia SEO            | Orbital Técnico    | En Proceso| [A]  | [A]  |      |      |      |      |      |      |      |      |      |     |     |     |
 | 1.3 Creación Sitemap y Robots.txt        | Orbital Técnico    | Realizado | [V]  | [V]  |      |      |      |      |      |      |      |      |      |     |     |     |
 | 1.4 Optimización de Imágenes             | Orbital Técnico    | Realizado | [V]  | [V]  |      |      |      |      |      |      |      |      |      |     |     |     |
 | 1.5 Datos Estructurados (Schema)         | Orbital Técnico    | Realizado | [V]  | [V]  |      |      |      |      |      |      |      |      |      |     |     |     |
