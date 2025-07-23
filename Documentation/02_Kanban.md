@@ -5,14 +5,12 @@
 ### Por Hacer
 
 ### En Progreso
-- [ ] Configurar Google Business Profile.
+- [ ] Análisis y Estrategia SEO.
+- [ ] Configurar Google My Business (GMB).
 
 ### Hecho
-- [x] Configurar registros DNS.
-- [x] Migrar archivos del sitio web.
-- [x] Realizar investigación de palabras clave.
-- [x] Optimizar contenido del sitio para SEO.
-- [x] Enviar sitemap a Google Search Console.
+- [x] Configuración DNS y Migración.
+- [x] Creación Sitemap y Robots.txt.
 - [x] Optimización de Imágenes.
 - [x] Datos Estructurados (Schema).
 
